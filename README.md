@@ -7,10 +7,10 @@ USAGE:
     <TinyScrollbarY wheelSpeed={10} width="8px" autohide={true}/>
 
 Available Options ( props ): 
-      width: the width of the scrollbar
-      color: CSS color
-      opacity: CSS opacity
-      radius: border radius
-      autohide: true or false
-      wheelSpeed: the speed while scrolling with mouse wheel
+      width: the width of the scrollbar,
+      color: CSS color,
+      opacity: CSS opacity,
+      radius: border radius,
+      autohide: true or false,
+      wheelSpeed: the speed while scrolling with mouse wheel.
     
